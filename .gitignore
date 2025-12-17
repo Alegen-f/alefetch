@@ -1,0 +1,8 @@
+# Binaries 
+alefetch
+*.exe
+
+# Objects files
+*.o
+*.obj
+

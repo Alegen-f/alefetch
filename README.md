@@ -13,7 +13,7 @@ Minimal system information tool written in C.
 
 ### From source:
 ```bash
-git clone https://github.com/yourusername/alefetch
+git clone https://github.com/Alegen-f/alefetch
 cd alefetch
 make
 sudo make install  # optional
